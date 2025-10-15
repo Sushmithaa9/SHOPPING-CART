@@ -1,0 +1,22 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #f3f4f6;
+}
+
+/* App Wrapper */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px 16px;
+}
+
+/* Optional global heading style */
+h1, h2, h3 {
+  font-weight: 600;
+  color: #222;
+}
